@@ -1,0 +1,13 @@
+#Author :Sirvan Nasiri Kia from The University of Tehran
+
+This is a project for running some subsystems of public transportation under a hyperledger fabric blockchain.
+It includes both application and smart contracts. the application was implemented with typescript and smart contracts were implemented by node.js.
+I created this project for analyzing and testing a private blockchain for public transportation in a smart city for my master's dissertation at the University of Tehran.
+The subsystems that have been considered here are 
+1-Stops(Stations) Management
+2-Rout(Line) Management
+3-Travel management
+4-Ticket Management
+5-Repairing Service Management
+6-Pollution Management
+7-Line Entrance Management 
